@@ -24,5 +24,3 @@ A simple and lightweight web application that converts text input into spoken wo
 
 
 
-
-
